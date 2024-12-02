@@ -17,3 +17,8 @@ body {
   min-height: 100vh;
   display: grid;
 }
+
+.pc-only {
+  text-align: center;
+  color: #ebfffc;
+}
