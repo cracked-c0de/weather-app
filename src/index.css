@@ -11,6 +11,7 @@ body {
   height: 100dvh;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 .app {
   min-height: 100vh;
